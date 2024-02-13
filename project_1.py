@@ -1,5 +1,6 @@
 import random
- 
+
+
 def your_story(template):
     if template == "random":
         template1 = random.randint(1, 3)
